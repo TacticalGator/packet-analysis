@@ -1,9 +1,3 @@
-# Files for Cyber Security Fundamentals Bootcamp Series, O'Reilly Media
-
-## Download All The Files in This Repository
-
-Run `git clone https://github.com/mchow01/Bootcamp`
-
 ## Exercises
 
 * `set1.pcap` (715B) - For first exercise, overview of Wireshark
